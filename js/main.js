@@ -45,14 +45,14 @@ constructor() {
     <div class="container">
         <aside class="perfil"></aside>
         <section class="discover">
-        <div class="discover_tittle">New Discover</div>
-        <div class="discover_top"></div>
-        <div class="discover_like"></div>
+            <div class="discover_tittle">New Discover</div>
+            <div class="discover_top"></div>
+            <div class="discover_like"></div>
         </section>
         <article class="playing"></article>
         <aside class="list">
-        <div class="list_tittle">Track list</div>
-        <div class="list_contain"></div>
+            <div class="list_tittle">Track list</div>
+            <div class="list_contain"></div>
         </aside>
     </div>
     `;
